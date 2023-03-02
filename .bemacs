@@ -1,0 +1,5 @@
+#!/bin/csh -f
+#set file = `echo $* |awk -F@ '{print $2}'|awk '{print $1}'`
+set file = `echo $*`
+echo "emacs $file"
+emacs --batch -l verilog-mode.el $file -f verilog-batch-auto -f save-buffer
