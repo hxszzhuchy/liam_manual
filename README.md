@@ -16,10 +16,10 @@
 >>> * Syntax: Verilog, SystemVerilog  
 ---
 # <u>待施工</u>  
-** linux shell相关 **  
+__linux shell相关__
 * shell里的好用的快捷键  
 * shell里常用指令  
-** vim相关 **  
+**vim相关**  
 * 基础版：vim基本快捷键、常用快捷键与一些FAQ  
 * 进阶版：插件使用，.vimrc remap相关，以及码Verilog代码时候的快捷键  
 ** 不知道写什么了，先加个占位符，可能会把总结过的工具使用记录.word文档搬过来 **  
